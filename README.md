@@ -1,5 +1,4 @@
-# vanabhojana_karthik_002297746_INFO6150_Assignment9
-# React Project
+# React Login Project
 
 This is a simple React project with user authentication and multiple pages.
 
