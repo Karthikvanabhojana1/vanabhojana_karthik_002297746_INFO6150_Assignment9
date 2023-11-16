@@ -54,7 +54,6 @@ The project has the following structure:
 3. Run the React app: `npm start`
 4. Run the Express server: `npm run server`
 
-
 ## Features
 
 1. **React Components:**
