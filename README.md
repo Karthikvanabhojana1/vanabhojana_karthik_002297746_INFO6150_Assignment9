@@ -10,17 +10,17 @@ The project has the following structure:
 - **src**
   - **Components**
     - **Home**
-      - `Home.jsx`
+      - `Home.js`
     - **About**
-      - `AboutUs.jsx`
+      - `AboutUs.js`
     - **Jobs**
-      - `Jobs.jsx`
+      - `Jobs.js`
     - **Contact**
-      - `Contact.jsx`
+      - `Contact.js`
     - **Login**
-      - `Login.jsx`
+      - `Login.js`
     - **Card**
-      - `Card.jsx`
+      - `Card.js`
   - **APIs**
     - **Routes**
       - `Routes.js`
