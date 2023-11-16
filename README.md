@@ -49,9 +49,8 @@ The project has the following structure:
 ## How to Run
 
 1. Clone the repository: `git clone <repository-url>`
-2. Install dependencies: `npm install`
-3. Run the React app: `npm start`
-4. Run the Express server: `npm run server`
+2. Run the React app: `npm start`
+
 
 ## Features
 
