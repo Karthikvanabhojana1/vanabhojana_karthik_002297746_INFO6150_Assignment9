@@ -87,4 +87,7 @@ The project has the following structure:
 
 ## Login
 The `Login` component is a React component providing a simple login form for user authentication. It includes fields for entering email and password, and it communicates with a server endpoint for authentication.
+- The handleLogin function, which is triggered when the "Login" button is clicked. This function communicates with the server for user authentication.
+- Login component as a functional component that takes onLogin as a prop and uses the useState hook to manage the state of email and password.
+- fetch call to send authentication and which intererns help to authentication
 
